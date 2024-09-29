@@ -1,6 +1,6 @@
 # ABOUT ME, 박윤경
 
-<img src="./assets/md/pyk_portrait_photo.jpg" alt="박윤경 프로필 사진" width="30%" height="30%" />
+<img src="./assets/md/pyk_portrait_photo.jpg" alt="박윤경 프로필 사진" width="50%" height="50%" />
 
 ```
 
@@ -56,6 +56,8 @@ E-mail: photoby64@naver.com
 - [ ] 프론트엔드 공부 **후회 없이** 하기
 - [ ] 쉬지 않고 1시간 동안 달리기
 
+4. 글을 마치며..
+
 ## <br>
 
-\* 읽어주셔서 감사합니다!
+\* 읽어주셔서 감사합니다😊 God bless you!
