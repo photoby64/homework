@@ -51,7 +51,7 @@ E-mail: photoby64@naver.com
 
 ## 3. 올해 이루고 싶은 것
 
-- [ ] <span style="background-color:#C0FFFF"> _삼성라이온즈 2024 포스트시즌 \*우승\* _ </span>
+- [ ] <span style="background-color:#C0FFFF"> _삼성라이온즈 2024 포스트시즌 \*우승\*_ </span>
 - [x] ~~어디든 혼자서 여행 다녀오기~~
 - [ ] 프론트엔드 공부 **후회 없이** 하기
 - [ ] 쉬지 않고 1시간 동안 달리기
