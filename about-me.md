@@ -1,6 +1,6 @@
 # ABOUT ME, 박윤경
 
-<img src="./assets/md/pyk_portrait_photo.jpg" alt="박윤경 프로필 사진" width="500" height="674" />
+<img src="./assets/md/pyk_portrait_photo.jpg" alt="박윤경 프로필 사진" width="30%" height="30%" />
 
 ```
 
