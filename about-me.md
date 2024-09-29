@@ -1,6 +1,5 @@
 # ABOUT ME, 박윤경
 
-<br>
 <img src="./assets/md/pyk_portrait_photo.jpg" alt="박윤경 프로필 사진" width="500" height="674" />
 
 ```
@@ -45,12 +44,14 @@ E-mail: photoby64@naver.com
 
   야구, 골프 _를 보는 것...^^_
 
+<br>
 ## 2. 나에 대한 재밌는 사실
 
 - 저는 easy temperament 하지만 sensitive 합니다.
 - 저는 사람은 좋아하지만 낯을 가립니다.
 - 저는 정리정돈과 청소를 잘하지만 방은 혼돈의 카우스 입니다.
 
+<br>
 ## 3. 올해 이루고 싶은 것
 
 - [ ] <span style="background-color:#C0FFFF"> 삼성라이온즈 2024 포스트시즌 우승 </span>
@@ -60,4 +61,4 @@ E-mail: photoby64@naver.com
 
 ## <br>
 
-\*읽어주셔서 감사합니다.
+\* 읽어주셔서 감사합니다.
