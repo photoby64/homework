@@ -1,6 +1,6 @@
 # ABOUT ME, 박윤경
 
-<img=이미지링크 alt="https://github.com/photoby64/homework/blob/main/assets/md/pyk_portrait_photo.jpg" width="500" height="674" />
+<img src="./assets/md/pyk_portrait_photo.jpg" alt="박윤경 프로필 사진" width="500" height="674" />
 
 ```
 Park yunkyung (main) git log --oneline
@@ -53,5 +53,3 @@ E-mail: photoby64@naver.com
 - [ ] 1시간 달리기 성공
 
 ---
-
-\*감사합니다.
