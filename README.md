@@ -4,4 +4,5 @@
 <br/>
 <br/>
 
-> `2024.09.30` &nbsp; [자기소개서](https://github.com/photoby64/homework/blob/main/md/about-me.md)
+> `2024-09-30` &nbsp; [자기소개서](https://github.com/photoby64/homework/blob/main/md/about-me.md) <br />
+> `2024-10-05` &nbsp; [Avatars 과제](https://photoby64.github.io/homework/avatars/avatars.html) , [Avatars-Github](https://github.com/photoby64/homework/blob/main/avatars/avatars.html)
