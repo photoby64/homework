@@ -1,4 +1,4 @@
-# 과제명: [Avatars]()
+# 과제명: [Avatars](https://photoby64.github.io/homework/avatars/avatars.html)
 # 날짜: 2024-10-05
 
 ## 1. 구조
