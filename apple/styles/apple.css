@@ -1,3 +1,79 @@
 @import url(card-component.css);
 
 /* 카드 레이아웃 */
+main {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 1rem;
+}
+
+.ipod-pro {
+  background-image: image-set(url(./../products/ipad_pro.jpeg) 1x, url(./../products/ipad_pro_2x.jpeg) 2x);
+}
+
+.ipad-air {
+  background-image: image-set(url(./../products/ipad_air.jpeg) 1x, url(./../products/ipad_air_2x.jpeg) 2x);
+}
+
+.iphone-15-pro {
+  background-image: image-set(url(./../products/iphone15_pro.jpeg) 1x, url(./../products/iphone15_pro_2x.jpeg) 2x);
+}
+.iphone-15 {
+  background-image: image-set(url(./../products/iphone15.jpeg) 1x, url(./../products/iphone15_2x.jpeg) 2x);
+}
+.apple-watch {
+  background-image: image-set(url(./../products/apple_watch.jpeg) 1x, url(./../products/apple_watch_2x.jpeg) 2x);
+}
+.macbook-air {
+  background-image: image-set(url(./../products/macbook_air.jpeg) 1x, url(./../products/macbook_air_2x.jpeg) 2x);
+}
+.airpods-pro {
+  background-image: image-set(url(./../products/airpods_pro.jpeg) 1x, url(./../products/airpods_pro_2x.jpeg) 2x);
+}
+
+@media (min-width: 1024px) {
+  .main {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .ipod-pro,
+  .ipad-air,
+  .iphone-15-pro {
+    grid-column: span 2;
+  }
+
+  .iphone-15,
+  .apple-watch,
+  .macbook-air,
+  .airpods-pro {
+    grid-column: span 1;
+  }
+
+  .ipod-pro {
+    background-image: image-set(url(./../products/ipad_pro_wide.jpeg) 1x, url(./../products/ipad_pro_wide_2x.jpeg) 2x);
+  }
+
+  .ipad-air {
+    background-image: image-set(url(./../products/ipad_air_wide.jpeg) 1x, url(./../products/ipad_air_wide_2x.jpeg) 2x);
+  }
+
+  .iphone-15-pro {
+    background-image: image-set(url(./../products/iphone15_pro_wide.jpeg) 1x, url(./../products/iphone15_pro_wide_2x.jpeg) 2x);
+  }
+
+  .card {
+    padding-top: var(--extra-large-spacing);
+
+    .card-headline {
+      font-size: var(--extra-large-text);
+      font-weight: 700;
+    }
+  }
+
+  .button-blue {
+    font-size: var(--x-small-text);
+  }
+
+  .button-black {
+    font-size: var(--x-small-text);
+  }
+}
