@@ -1,0 +1,102 @@
+@import url(./base.css);
+@import url(./reset.css);
+@import url(./theme.css);
+
+.card-black {
+  color: var(--white);
+}
+.card-white {
+  color: var(--black);
+}
+
+.card {
+  height: var(--size);
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  padding-top: var(--large-spacing);
+  gap: var(--small-spacing);
+  text-align: center;
+
+  background-size: cover;
+  background-position: 50% 50%;
+
+  .card-headline {
+    font-size: var(--large-text);
+    font-weight: 700;
+  }
+
+  .card-subhead {
+    font-size: var(--base-text);
+    line-height: var(--line-normal);
+    white-space: nowrap;
+  }
+
+  .card-subhead2 {
+    font-size: var(--small-text);
+    color: var(--gray);
+  }
+
+  .button-wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    gap: var(--base-spacing);
+  }
+}
+
+/* 버튼 */
+
+.button-blue {
+  font-size: var(--xx-small-text);
+  border-radius: 20px;
+  padding: var(--x-small-spacing);
+
+  &.button-left {
+    color: var(--white);
+    background-color: var(--blue-300);
+    border-color: var(--blue-300);
+
+    &:hover {
+      background-color: var(--blue-200);
+    }
+  }
+
+  &.button-right {
+    color: var(--blue-300);
+    background-color: transparent;
+    border: 1px solid var(--blue-300);
+
+    &:hover {
+      color: var(--white);
+      background-color: var(--blue-200);
+    }
+  }
+}
+
+.button-black {
+  font-size: var(--xx-small-text);
+  border-radius: 20px;
+  padding: var(--x-small-spacing);
+
+  &.button-left {
+    color: var(--white);
+    background-color: var(--black);
+    border-color: var(--black);
+
+    &:hover {
+      background-color: var(--gray);
+    }
+  }
+
+  &.button-right {
+    color: var(--black);
+    background-color: transparent;
+    border: 1px solid var(--black);
+
+    &:hover {
+      color: var(--white);
+      background-color: var(--gray);
+      border: 1px solid var(--gray);
+    }
+  }
+}
