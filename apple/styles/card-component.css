@@ -100,3 +100,41 @@
     }
   }
 }
+
+@media (min-width: 1024px) {
+  .ipod-pro {
+    background-image: image-set(url(./../products/ipad_pro_wide.jpeg) 1x, url(./../products/ipad_pro_wide_2x.jpeg) 2x);
+  }
+
+  .ipad-air {
+    background-image: image-set(url(./../products/ipad_air_wide.jpeg) 1x, url(./../products/ipad_air_wide_2x.jpeg) 2x);
+  }
+
+  .iphone-15-pro {
+    background-image: image-set(url(./../products/iphone15_pro_wide.jpeg) 1x, url(./../products/iphone15_pro_wide_2x.jpeg) 2x);
+  }
+
+  .card {
+    padding-top: var(--extra-large-spacing);
+
+    .card-headline {
+      font-size: var(--extra-large-text);
+      font-weight: 700;
+    }
+  }
+
+  .button-blue {
+    font-size: var(--x-small-text);
+  }
+
+  .button-black {
+    font-size: var(--x-small-text);
+  }
+}
+
+@media (max-width: 1023px) {
+  /* 1023px 이하일 때 */
+  .card-subhead {
+    white-space: normal; /* 줄바꿈 허용 */
+  }
+}
