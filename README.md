@@ -19,3 +19,11 @@
 > [Avatars](https://github.com/photoby64/homework/blob/main/md/avatars.md)
 >
 > HTML과 CSS를 사용하여 주어진 Avatars 예제 구현하기
+
+---
+
+`2024-10-20` &nbsp;
+
+> [Apple](https://github.com/photoby64/homework/tree/main/apple)
+>
+> HTML과 CSS를 사용하여 주어진 Apple 예제 구현하기
