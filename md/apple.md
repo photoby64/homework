@@ -2,6 +2,7 @@
 
 - 과제: Apple 메인 페이지 구현
 - 날짜: 2024년 10월 20일
+- 배포 주소: https://photoby64.github.io/homework/apple/apple.html
 
 # 🟢 Table of Contents
 
@@ -76,13 +77,16 @@
 
 ## 🌈 결과
 
-- 1024px 이하 Small Screen
-  ![스몰](./../md/images/small-screen.gif)
+### **1024px 이하 Small Screen**
 
-- 1024px 이상 Large Screen
-  ![라지](./../md/images/large-screen.gif)
+![스몰](./../md/images/small-screen.gif)
 
-- 1024px 이상 X-Large Screen
+### **1024px 이상 Large Screen**
+
+![라지](./../md/images/large-screen.gif)
+
+### **1024px 이상 X-Large Screen**
+
 ![라지2](./../md/images/large-screen-2.gif)
 
   <br />
@@ -102,7 +106,9 @@
 
 <br />
 <br />
+
 ## 🙂 과제를 마치며..
+
 이번 과제는 좀 더 오래 고민하고 생각하며 재미있게 도전해본 과제였다. 중간에는 도저히 구현이 안되서 포기할까 생각했는데 하루라는 시간이 더 있어서 그런지 완성이 중요한게 아니라 끝까지 도전해보자!! 라는 마음으로 다시 시도해볼 수 있었다. 근데 하도 고민을 오해 하다보니까 md파일 제대로 작성할 시간이 많이 없어서 아쉬웠다.
 
 ---
