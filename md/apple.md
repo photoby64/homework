@@ -77,14 +77,13 @@
 ## 🌈 결과
 
 - 1024px 이하 Small Screen
-  <img src="./../md/images/small-screen.gif>
+  ![스몰](./../md/images/small-screen.gif)
 
 - 1024px 이상 Large Screen
-
-<img src="./../md/images/large-screen.gif>
+  ![라지](./../md/images/large-screen.gif)
 
 - 1024px 이상 X-Large Screen
-<img src="./../md/images/large-screen-2.gif>
+![라지2](./../md/images/large-screen-2.gif)
 
   <br />
   <br />
